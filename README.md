@@ -48,4 +48,4 @@ Then access this url in your browser:
     http://localhost:8000
 
 
-![P++](p++.png)
+![P++](images/p++.png)
