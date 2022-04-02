@@ -7,6 +7,8 @@ The API created used flask allows users to parse a text or sentence throught the
 * **Text** -The sentence to be analyzed.
 * **Sentiment** -Possible outputs include,[ Positive, Neutral or Negative]
 * **Sentiment Level** -Possible outputs include,[ P, P+, P++, NEU,  N, N+, N++]
+* **Polarity** -Range [-1,1]
+* **Subjectivity** -Range [-1,1]
 
 
  Sample Output-{"Polarity":0.5,"Sentiment":"Positive","Sentiment Level":"P+","Subjectivity":0.6,"Text":"I love to code"}
