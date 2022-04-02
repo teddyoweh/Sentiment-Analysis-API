@@ -1,8 +1,8 @@
-# Flask App Template
+# Sentiment Analysis Api
 
-**An complete Flask application template, with useful plugins.**
+**A Flask Sentiment Analysis API, with visual implementation**
 
-Use this Flask app to initiate your project with less work. In this application  template you will find the following plugins already configured:
+The API created used flask allows users to parse a text or sentence throught the (?text) arguement, then view the sentiment analysis of that sentence. It is implementable into a web application
 
 * **Flask-Login** - Flask-Login provides user session management for Flask.
 * **Flask-Bootstrap** - Ready-to-use Twitter-bootstrap for use in Flask.
