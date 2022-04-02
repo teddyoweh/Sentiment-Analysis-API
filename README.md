@@ -23,8 +23,8 @@ First, clone this repository.
     $ cd Sentiment-Analysis-API
 
 After, install all necessary to run:
-    $ sudo apt install php
 
+    $ sudo apt install php
     $ pipenv install
 
 
@@ -38,7 +38,8 @@ To see your raw api access this url in your browser:
 	http://localhost:5000
 
  
-To see your see implemenation of the Sentiment Analysis API 
+To see your see implemenation of the Sentiment Analysis API:
+
     $ php -S localhost:8000
 
 
