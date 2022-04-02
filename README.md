@@ -47,5 +47,7 @@ Then access this url in your browser:
 
     http://localhost:8000
 
-
+![P++](images/api.png)
 ![P++](images/p++.png)
+![P++](images/n++.png)
+![P++](images/nue.png)
