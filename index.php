@@ -4,6 +4,14 @@
 # Name: teddy oweh
 # Email: teddyoweh@teddyoweh.com
 # Message: Feel Free To Contact Me on Enquires or Questions.
+
+
+
+$host = 'localhost';
+$port = 5000;
+
+$conn = $host.':'.$post;
+
 $show ='none';
 $name = $_POST['submit'];
 $loc = array(
@@ -23,7 +31,7 @@ if(isset($name)){
       else
       {
         $text = $_POST['text'];
-        $uri = 'http://10.119.137.245:5000/?text='.urlencode($text);
+        $uri = $conn.'/?text='.urlencode($text);
         $url = file_get_contents($uri);
         $loc = json_decode($url, true); 
         $show = 'block';
