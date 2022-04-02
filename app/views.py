@@ -1,6 +1,7 @@
- 
-from cmath import polar
-from crypt import methods
+# -*- coding=utf-8 -*-
+# Name: teddy oweh
+# Email: teddyoweh@teddyoweh.com
+# Message: Feel Free To Contact Me on Enquires or Questions.
 from flask import url_for, redirect, render_template, flash, g, session
 
 from flask import jsonify
