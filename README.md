@@ -47,7 +47,17 @@ Then access this url in your browser:
 
     http://localhost:8000
 
+## API Output
 ![P++](images/api.png)
+
+
+## API Implementation
+
+### Postive Sentiment
 ![P++](images/p++.png)
+
+### Neurtal Sentiment
+![P++](images/neu.png)
+
+### Negative Sentiment
 ![P++](images/n++.png)
-![P++](images/nue.png)
