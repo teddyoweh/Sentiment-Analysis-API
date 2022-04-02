@@ -35,7 +35,7 @@ Run the application:
 
 	$ pipenv run python run.py
 
-To see your raw api access this url in your browser: 
+To the api output, access this url in your browser: 
 
 	http://localhost:5000
 
