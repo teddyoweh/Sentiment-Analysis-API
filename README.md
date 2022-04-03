@@ -2,7 +2,7 @@
 
 **A Flask Sentiment Analysis API, with visual implementation**
 
-The API created used flask allows users to parse a text or sentence throught the (?text) arguement, then view the sentiment analysis of that sentence. It is implementable into a web application
+The Sentiment Analysis Api was created using python flask module,it allows users to parse a text or sentence throught the (?text) arguement, then view the sentiment analysis of that sentence. It can be implementable into a web application.
 
 * **Text** -The sentence to be analyzed.
 * **Sentiment** -Possible outputs include,[ Positive, Neutral or Negative]
