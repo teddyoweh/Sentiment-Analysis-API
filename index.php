@@ -7,10 +7,10 @@
 
 
 
-$host = 'localhost';
+$host = '10.119.137.245';
 $port = 5000;
 
-$conn = $host.':'.$post;
+$conn = 'http://'.$host.':'.$post;
 
 $show ='none';
 $name = $_POST['submit'];
