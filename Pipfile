@@ -18,6 +18,7 @@ flask-sqlalchemy = "*"
 flask-themes = "*"
 flask-uploads = "*"
 flask-wtf = "*"
+gunicorn="*"
 
 [dev-packages]
 
