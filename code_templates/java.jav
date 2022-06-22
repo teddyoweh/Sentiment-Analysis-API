@@ -6,8 +6,8 @@ import org.json.*;
 public class GetRequest {
 
     public static void main(String[] args) throws Exception {
-        const word = 'im a developer';
-        URL url = new URL("https://sentiment-analytics-api.herokuapp.com/?text=$word"+);
+        String word = 'im a developer';
+        URL url = new URL("https://sentiment-analytics-api.herokuapp.com/?text="+word);
         HttpURLConnection con = (HttpURLConnection) url.openConnection();
         con.setRequestMethod("GET");
 
